@@ -9,6 +9,10 @@ This application requires you to have Python3 and pip installed in path\
 Python modules required are included but installs automatically if not present\
 For manual install do 'pip3 install -r requirements.txt'\
 
+# SUPPORT
+
+Currently supports only windows and macos(Linux support to be added later)\
+
 # FEATURES
 
 -> Create custom shortcuts to send specific messages like CTRL+L to send a 'LOL' to current chat\
