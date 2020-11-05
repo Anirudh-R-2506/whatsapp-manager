@@ -1,8 +1,8 @@
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)
-```html
-<center><b><h1>WHATSAPP MANAGER</h1></b></center>
-```
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/239px-WhatsApp.svg.png)
+
+# WHATSAPP MANAGER
+
 Python application to manage web whatsapp\
 This application makes web whatsapp easier to use and access with the help of shortcuts\
 Chat with your friends and family with ease
