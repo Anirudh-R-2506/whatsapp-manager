@@ -17,6 +17,14 @@ For manual install do 'pip3 install -r requirements.txt'
 
 Currently supports only windows and macos(Linux support to be added later)
 
+# USAGE
+
+Move all files in this repository to your main drive\
+Run add_key.py to add custom shortcut keys\
+Run main.py to launch the application\
+Use whatsapp.bat(for windows) or whatsapp.sh(for macos) from same folder of main.py for one click run\
+Run add_to_startup.bat(for windows) or add_to_startup.sh(for macos) to start the application on login\
+
 # FEATURES
 
 -> Create custom shortcuts to send specific messages like CTRL+L to send a 'LOL' to current chat\
