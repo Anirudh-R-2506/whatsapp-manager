@@ -1,0 +1,7 @@
+selenium
+pynput
+SpeechRecognition
+playsound
+requests
+webdriver-manager
+win32gui
