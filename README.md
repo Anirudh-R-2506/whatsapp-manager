@@ -31,7 +31,3 @@ Run add_to_startup.bat(for windows) or add_to_startup.sh(for macos) to start the
 -> Dictate messages to be sent to current chat\
 -> Easily switch between chats\
 -> Use shortcuts to even send emojis :)
-
-# PRESENT ISSUES
-
-Check issues.txt file
