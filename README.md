@@ -27,8 +27,8 @@ Run add_to_startup.bat(for windows) or add_to_startup.sh(for macos) to start the
 
 # FEATURES
 
--> Create custom shortcuts to send specific messages like CTRL+L to send a 'LOL' to current chat\
--> Dictate messages to be sent to current chat\
+-> Create custom shortcuts to send specific messages like CTRL+L to send a 'LOL'\
+-> Send messages by dictating them\
 -> Easily switch between chats\
 -> Use shortcuts to even send emojis :)\
 -> Auto correct to always keep you on the right path
