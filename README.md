@@ -30,5 +30,4 @@ Run add_to_startup.bat(for windows) or add_to_startup.sh(for macos) or add_to_st
 -> Create custom shortcuts to send specific messages like CTRL+L to send a 'LOL'\
 -> Send messages by dictating them\
 -> Easily switch between chats\
--> Use shortcuts to even send emojis :)\
--> Auto correct to always keep you on the right path
+-> Use shortcuts to even send emojis :)
