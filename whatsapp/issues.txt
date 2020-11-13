@@ -1,3 +1,0 @@
-MACOS
-
--> Keyboard shortcuts work even when other tabs like gmail are open in selenium window
